@@ -1,4 +1,4 @@
-# SI 364 - Winter 2018 - Final Project
+# SI 364 - Fall 2018 - Final Project
 
 **Final project submission deadline: December 14, 2018 at 11:59 pm**
 
