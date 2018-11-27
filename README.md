@@ -2,7 +2,7 @@
 
 **Final project submission deadline: December 14, 2018 at 11:59 pm**
 
-**Total: 3000 points**
+**Total: 3000 points** (potential for 300 points extra credit)
 
 Late assignment policy does NOT apply; late projects are not accepted. If you have a concern about deadlines and dates please let Troy and an advisor in OSA know immediately.
 
