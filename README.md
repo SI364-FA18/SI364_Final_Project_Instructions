@@ -1,6 +1,6 @@
 # SI 364 - Fall 2018 - Final Project
 
-**Final project submission deadline: December 14, 2018 at 11:59 pm**
+**Final project submission deadline: December 17, 2018 at 11:59 pm**
 
 **Total: 3000 points** (potential for 300 points extra credit)
 
