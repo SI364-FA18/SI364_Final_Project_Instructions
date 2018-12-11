@@ -103,8 +103,6 @@ Visual design will not earn you points for this assignment though you may certai
 
 ## Additional Requirements for extra points -- an app with extra functionality!
 
-**Note:** Maximum possible % is 102%.
-
 - [ ] (100 points) Include a use of an AJAX request in your application that accesses and displays useful (for use of your application) data.
 - [ ]  (100 points) Create, run, and commit at least one migration. (We'll see this from the files generated and can check the history)
 - [ ]  (100 points) Deploy the application to the internet (Heroku) — only counts if it is up when we grade / you can show proof it is up at a URL and tell us what the URL is in the README. (Heroku deployment as we taught you is 100% free so this will not cost anything.)
